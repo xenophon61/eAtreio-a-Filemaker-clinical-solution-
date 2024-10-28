@@ -20,7 +20,7 @@ It’s easy to get started:
 
 – get the eAtreio package from here
 
-– have a look at our Youtube channel, and our forum for pointers on how to use it
+– have a look at our Youtube channel https://www.youtube.com/channel/UCETs5zGX4VPl3OlOq6YqmwQ/videos, and our forum for pointers on how to use it
 
 Perhaps you would consider donating to a charity of your choice (or, maybe, even «Θεοτόκος» http://www.theotokos.gr/ in Greece). This is the price of admission if you are junior staff, or using eAtreio for research.
 
