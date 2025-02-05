@@ -1,4 +1,4 @@
-# eAtreio-a-Filemaker-clinical-solution-
+# eAtreio: a Filemaker-based clinical solution
 A Filemaker clinical solution (for Cardiology, other subspecialties, but also generic and Legal personalities)
 
 
